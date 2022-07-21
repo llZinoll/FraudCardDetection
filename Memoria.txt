@@ -1,0 +1,8 @@
+A lo largo de del desarrollo del proyecto una de las mayores dificultades era encontrar el data set,
+por que fraude no era mi primera opcion, estuve buscando por mucho tiempo.
+
+Una vez encontrado el data set no tuve muchos problemas ya que por mi suerte todo eran valores numericos,
+lo demas solo era buscar los modelos, una vez ya hecho los modelos y las metricas solo faltaba sacar la conclusion
+
+Intente tambien hacer una red neuronal, cosa que se me complico muchisimo, por que era lo que dimos hace poco tuve que volver a crear un train split.
+Y entender mejor el codigo ya que en lase trabajamos con imagenes es una experiencia que me gusto y me habria gustado profundizar mas.
